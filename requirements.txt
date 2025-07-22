@@ -1,0 +1,19 @@
+# Core dependencies for a voice assistant
+
+# Speech Recognition (voice to text)
+SpeechRecognition
+
+# Microphone input
+pyaudio
+
+# Text-to-Speech
+pyttsx3
+
+# NLU/NLP (optional, for smarter intent parsing)
+spacy
+
+# Optional: Vosk for offline speech recognition
+vosk
+
+# For making API requests (weather, etc.)
+requests
